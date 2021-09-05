@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+qmb_virtual
+.DS_Store
+.env
